@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42AA4D1A-0378-41D9-B681-60B9420EA858</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AuroraLink</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9CD06AEB-D1B4-4C13-B481-6F4C44CF0DF9</key>
+		<string>svn://192.168.1.247/Beadedstream</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BeadedStream/AuroraLink.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9CD06AEB-D1B4-4C13-B481-6F4C44CF0DF9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9CD06AEB-D1B4-4C13-B481-6F4C44CF0DF9</key>
+		<string>svn://192.168.1.247</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.247/Beadedstream/BeadedStream/AuroraLink.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9CD06AEB-D1B4-4C13-B481-6F4C44CF0DF9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9CD06AEB-D1B4-4C13-B481-6F4C44CF0DF9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Beadedstream</string>
+		</dict>
+	</array>
+</dict>
+</plist>
